@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="pet-art pet-idle" viewBox="0 0 180 160" fill="none" role="img" aria-label="Between Us companion" focusable="false"><metadata>Original Between Us artwork; Author: Jialei.He. Extracted from current public app on 2026-11-02.</metadata>
+      <ellipse class="pet-shadow" cx="90" cy="145" rx="47" ry="7" fill="#BCA9D8" opacity=".19"/>
+      <g class="pet-character">
+      <g class="pet-body">
+        <g class="pet-ears">
+          <g class="pet-ear pet-ear-left"><path d="M54 59c-8-17-8-35 2-37 9-2 17 12 20 29Z" fill="#FFFEFC" stroke="#D5C7EB" stroke-width="1.5"/><path d="M57 30c-3 1-2 12 2 17l8-3c-2-6-7-15-10-14Z" fill="#E8DEF5"/></g>
+          <g class="pet-ear pet-ear-right"><path d="M126 59c8-17 8-35-2-37-9-2-17 12-20 29Z" fill="#FFFEFC" stroke="#D5C7EB" stroke-width="1.5"/><path d="M123 30c3 1 2 12-2 17l-8-3c2-6 7-15 10-14Z" fill="#E8DEF5"/></g>
+        </g>
+        <path class="pet-silhouette" d="M43 91c-3-17 1-29 11-38 10-8 22-11 36-11s26 3 36 11c10 9 14 21 11 38 6 13 8 25 2 35-8 13-24 16-49 16s-41-3-49-16c-6-10-4-22 2-35Z" fill="#FFFEFC" stroke="#D5C7EB" stroke-width="1.5"/>
+        <path d="M43 113c7 16 22 23 47 23s40-7 47-23c3 8 3 15-4 20-9 7-25 9-43 9s-34-2-43-9c-7-5-7-12-4-20Z" fill="#EFE9F8"/>
+        <ellipse cx="90" cy="115" rx="23" ry="18" fill="#F6F1FC"/>
+        <g class="pet-feet" fill="#FFFEFC" stroke="#D5C7EB" stroke-width="1.5"><path class="pet-foot pet-foot-left" d="M58 136c-1 7 6 10 15 8 5-1 6-5 5-7"/><path class="pet-foot pet-foot-right" d="M102 137c-1 6 0 6 5 7 9 2 16-1 15-8"/></g>
+        <g class="pet-face">
+          <g class="pet-blush" fill="#E6B9CB" opacity=".54"><ellipse cx="62" cy="91" rx="6.3" ry="3.5"/><ellipse cx="118" cy="91" rx="6.3" ry="3.5"/></g>
+          <g class="pet-eyes" fill="#514268"><ellipse class="pet-eye" cx="73" cy="79" rx="3.1" ry="4.3"/><ellipse class="pet-eye" cx="107" cy="79" rx="3.1" ry="4.3"/><g fill="#FFFEFC"><circle cx="74" cy="77.6" r="1"/><circle cx="108" cy="77.6" r="1"/></g></g>
+          
+          <path class="pet-mouth" d="M85 92q5 5 10 0" fill="none" stroke="#514268" stroke-width="2.2" stroke-linecap="round"/>
+        </g>
+        <g class="pet-paws" fill="#FFFEFC" stroke="#D5C7EB" stroke-width="1.5"><path class="pet-paw pet-paw-left" d="M51 108c-10 7-12 19-6 21 7 2 13-7 14-13"/><path class="pet-paw pet-paw-right" d="M129 108c10 7 12 19 6 21-7 2-13-7-14-13"/></g>
+      </g>
+      
+      </g>
+    </svg>
